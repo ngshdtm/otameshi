@@ -1,5 +1,5 @@
 otameshi
 ========
 
-  goals jetty:run
-  http://localhost:8080/hello
+    goals jetty:run
+    http://localhost:8080/hello
